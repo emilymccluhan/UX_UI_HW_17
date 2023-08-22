@@ -3,8 +3,9 @@
     vertical-align: top;
 }
 .logo {
-    width: 23;
+    width: 23px;
     padding: 1%;
+    text-align: center;
     }
 .navigation {
     width: 73%;
